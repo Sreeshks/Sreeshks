@@ -1,14 +1,6 @@
 
 👋 Hi, I'm **Sreesh K Suresh**, a passionate **Data Science** student and **Flutter Developer** with a strong interest in AI, web development, and data analysis. I love building innovative solutions and contributing to open-source projects.
 
-📫 **Contact Me:**  
-- **Email:** [sreeshksureshh@gmail.com](mailto:sreeshksureshh@gmail.com)  
-- **LinkedIn:** [Sreesh K Suresh](https://www.linkedin.com/in/sreesh-k-suresh/)  
-- **GitHub:** [Sreeshks](https://github.com/Sreeshks)  
-- **Mobile:** +91 8129690147  
-
----
-
 ## 🎓 **Education**
 - **Bachelor of Vocation in Data Science**  
   *St. Thomas College (Autonomous), Affl. University of Calicut*  
@@ -43,35 +35,6 @@
 
 ---
 
-## 🚀 **Projects**
-
-### **Shopease Using Python**
-- A platform for streamlining product search and enabling immediate, informed purchases.  
-- Features: Location-based search, shop locator, real-time stock information.  
-- **GitHub Repo:** [Shopease](https://github.com/Sreeshks/shopease.py.git)  
-
-### **Relief Medicals Delivery App**
-- A Flutter-based delivery app for Relief Medicals staff to streamline transactions and track customer locations.  
-- Features: Real-time status updates (delivered, partially delivered, returned, or pending).  
-- Built with **Flutter** (frontend) and **.NET** (backend).  
-
----
-
-## 🏅 **Hackathon Projects**
-
-### **Movemark - Attendance Marking System**
-- **AI-Powered GAIT-Based Solution** - *2nd Prize Winner*  
-- Developed an attendance marking system using the GAIT system to recognize body movements for automated tracking.  
-- Integrated advanced AI techniques for accurate identification.  
-
-### **Lucida Dream Journal by Team Mindecho**
-- A hackathon project to help users document and analyze their dreams.  
-- **GitHub Repo:** [Mindecho](https://github.com/codecrypt1/Mindecho)  
-
-### **Atomica App using Flutter**
-- An AI-powered habit tracker built using Flutter with REST API integration.  
-
----
 
 ## 📜 **Certifications**
 - **Introduction to Flutter**  
@@ -84,15 +47,6 @@
 - **Python 101 for Data Science**  
 
 *Explore all certificates on [LinkedIn](https://www.linkedin.com/in/sreesh-k-suresh/)*  
-
----
-
-## 🌟 **Why Collaborate With Me?**
-- I bring a unique blend of **technical expertise** in Data Science, AI, and Flutter development.  
-- I am passionate about solving real-world problems through innovative projects.  
-- I am a quick learner, team player, and always eager to take on new challenges.  
-
----
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=radical)
