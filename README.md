@@ -1,26 +1,22 @@
 
 👋 Hi, I'm **Sreesh K Suresh**, a passionate **Data Science** student and **Flutter Developer** with a strong interest in AI, web development, and data analysis. I love building innovative solutions and contributing to open-source projects.
 
-## 🎓 **Education**
-- **Bachelor of Vocation in Data Science**  
-  *St. Thomas College (Autonomous), Affl. University of Calicut*  
-  *June 2022 - March 2025 (Expected)*  
-
-- **Higher Secondary Education in Biology Science**  
-  *Government Higher Secondary School, Kerala Board of Public Examinations*  
-  *June 2020 - March 2022*  
-
----
-
-## 💼 **Experience**
-- **Flutter Developer Intern**  
-  *EQSOPT Business Solutions*  
-  *December 2024 – June 2025*  
-
----
-
 ## 🏆 **Achievements**
 - **2nd Prize** at **TechPlus Hackathon** for *"Best Idea Ignator"*  
+
+---
+
+## 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=radical)
+
+---
+ <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaretdev&langs_count=10&layout=compact&theme=shades-of-purple" alt="pawaretdev" />
+## 📫 **Let's Connect!**
+Feel free to reach out if you'd like to collaborate on a project, discuss ideas, or just have a chat!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreesh-k-suresh/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreeshks)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshksureshh@gmail.com)  
 
 ---
 
@@ -47,17 +43,3 @@
 - **Python 101 for Data Science**  
 
 *Explore all certificates on [LinkedIn](https://www.linkedin.com/in/sreesh-k-suresh/)*  
-
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=radical)
- <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaretdev&langs_count=10&layout=compact&theme=shades-of-purple" alt="pawaretdev" />
----
-
-## 📫 **Let's Connect!**
-Feel free to reach out if you'd like to collaborate on a project, discuss ideas, or just have a chat!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreesh-k-suresh/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreeshks)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshksureshh@gmail.com)  
-
----
