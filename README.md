@@ -50,7 +50,7 @@
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=radical)
-
+ <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaretdev&langs_count=10&layout=compact&theme=shades-of-purple" alt="pawaretdev" />
 ---
 
 ## 📫 **Let's Connect!**
