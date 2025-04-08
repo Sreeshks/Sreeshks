@@ -3,7 +3,7 @@
 
 ## 🏆 **Achievements**
 - **2nd Prize** at **TechPlus Hackathon** for *"Best Idea Ignator"*  
-
+- **3rd Prize** at **Hackefx Hackathon**
 ---
 
 ## 📊 **GitHub Stats**
