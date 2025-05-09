@@ -1,53 +1,58 @@
-<div align="center">
-  
-# ✨ Sreesh K Suresh ✨
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-## 🚀 About Me
-
-```python
-class SreeshKSuresh:
-    def __init__(self):
-        self.name = "Sreesh K Suresh"
-        self.role = "Data Science Student | Flutter Developer"
-        self.language_spoken = ["en_US", "Malayalam", "Tamil", "Hindi"]
-        self.interests = ["AI/ML", "Mobile Development", "Data Analysis"]
-        self.current_focus = "Building innovative solutions with Flutter and ML"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-
-me = SreeshKSuresh()
-me.say_hi()
-```
+# <div align="center">👋 Hi, I'm **Sreesh K Suresh**</div>
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Sreeshks&style=for-the-badge&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/Sreeshks?style=for-the-badge&logo=github&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/Sreeshks?style=for-the-badge&logo=github&color=yellow)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Data+Science+Student;Flutter+Developer;AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
-## ⚡ Tech Stack
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
+## 💫 About Me
 
+I'm a passionate **Data Science** student and **Flutter Developer** with a strong interest in AI, web development, and data analysis. I love building innovative solutions and contributing to open-source projects.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreeshks&label=Profile%20views&color=0e75b6&style=flat" alt="Sreeshks" /> </p>
+
+## 🏆 **Achievements**
 
 <div align="center">
   
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+| 🏆 **Competition** | 🎖️ **Award** |
+|:---:|:---:|
+| **TechPlus Hackathon** | **2nd Prize** for *"Best Idea Ignator"* |
+| **Hackefx Hackathon** | **3rd Prize** |
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreeshks&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshks&langs_count=10&layout=compact&theme=shades-of-purple" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sreeshks&theme=dracula&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🛠️ **Skills**
+
+<div align="center">
+
+### Programming Languages & Tools
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -55,115 +60,82 @@ me.say_hi()
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-</div>
+### Frameworks
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Sreesh's Skills))
-    Programming
-      Python
-      Flutter
-      R
-      HTML
-    Frameworks
-      Django
-      Bloc
-      GetX
-    Data Science
-      Big Data
-      AI
-      Tableau
-      Data Analysis
-    Design
-      UI/UX
-      Poster Making
-      Video Editing
-      Photo Editing
-    Databases
-      MySQL
-    Soft Skills
-      Communication
-      Teamwork 
-      Problem-Solving
-```
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-
-| 🏆 **Competition** | 🎖️ **Award** | 🔍 **Category** |
-|:---:|:---:|:---:|
-| **TechPlus Hackathon** | **2nd Prize** | *"Best Idea Ignator"* |
-| **Hackefx Hackathon** | **3rd Prize** | *Innovation* |
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 📊 GitHub Stats
+### Design & Editing
+- 🎨 Video Editing
+- 📸 Photo Editing
+- 🖌️ Poster Making
+- 📱 UI/UX Design
 
-<div align="center">
-  
-<!-- Modified snake animation to autoplay -->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sreeshks/Sreeshks/output/github-contribution-grid-snake-dark.svg" style="max-width:100%;">
+### Soft Skills
+- 🗣️ Communication
+- 👥 Teamwork
+- 📋 Project Management
+- 🧩 Problem-Solving
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreeshks&bg_color=1a1b27&color=aa82d9&line=628fdb&point=ffffff&area=true&hide_border=true" width="95%">
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreeshks&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Streesh's GitHub Stats"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshks&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Sreesh's Most Used Languages"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sreeshks&theme=tokyonight&no-frame=true&column=7&no-bg=true" alt="GitHub Trophies" />
-
-</div>
-
-## 📜 Certifications
+## 📜 **Certifications**
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-| 📄 **Certification** | 🚀 **Skills Gained** | 🔗 **Link** |
-|---|---|---|
-| Introduction to Flutter | Mobile App Development, Dart | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Python Full Stack Development | Python, Django, Web Development | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| GIT | Version Control, Collaboration | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Machine Learning with Python | ML Algorithms, Data Processing | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Data Analysis with Python | Data Visualization, Statistics | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Microsoft Cloud Skills Challenge | Azure, Cloud Computing | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Digital Marketing | SEO, Social Media Marketing | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Python 101 for Data Science | Data Science Fundamentals | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| 📄 Certification | 🔗 Platform |
+|---|---|
+| Introduction to Flutter | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| Python Full Stack Development | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| GIT | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| Machine Learning with Python | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| Data Analysis with Python | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| Microsoft Cloud Skills Challenge | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| Digital Marketing | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+| Python 101 for Data Science | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
 
 </div>
 
-## 🔥 My Contribution Streak
+---
 
-<div align="center">
-  <a href="https://github.com/Sreeshks/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Sreeshks&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</div>
-
-## 📫 Let's Connect!
+## 📫 **Let's Connect!**
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/sreesh-k-suresh/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-</a>
-<a href="https://github.com/Sreeshks" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</a>
-<a href="mailto:sreeshksureshh@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
-</a>
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreesh-k-suresh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreeshks)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshksureshh@gmail.com)
@@ -174,10 +146,8 @@ mindmap
   
 ![](https://github-contributor-stats.vercel.app/api?username=Sreeshks&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
