@@ -2,7 +2,6 @@
   
 # ✨ Sreesh K Suresh ✨
 
-
 </div>
 
 <div align="center">
@@ -104,6 +103,8 @@ mindmap
 ## 🏆 Achievements
 
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="500">
 
 | 🏆 **Competition** | 🎖️ **Award** | 🔍 **Category** |
 |:---:|:---:|:---:|
@@ -116,11 +117,8 @@ mindmap
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreeshks/Sreeshks/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreeshks/Sreeshks/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sreeshks/Sreeshks/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Modified snake animation to autoplay -->
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sreeshks/Sreeshks/output/github-contribution-grid-snake-dark.svg" style="max-width:100%;">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreeshks&bg_color=1a1b27&color=aa82d9&line=628fdb&point=ffffff&area=true&hide_border=true" width="95%">
 
