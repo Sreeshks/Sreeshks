@@ -1,4 +1,4 @@
-# <div align="center">**Sreesh K Suresh**</div>
+# <div align="center">Sreesh K Suresh</div>
 
 <div align="center">
   
@@ -10,16 +10,16 @@
 
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🚀 **Crafting Tomorrow's Solutions Today**
+## 🚀 Crafting Tomorrow's Solutions Today
 
-Passionate **Data Science Architect** and **Flutter Development Specialist** with an unwavering commitment to innovation. I transform complex data into actionable insights and build seamless mobile experiences that bridge the gap between technology and human needs.
+Passionate Data Science Architect and Flutter Development Specialist with an unwavering commitment to innovation. I transform complex data into actionable insights and build seamless mobile experiences that bridge the gap between technology and human needs.
 
 <div align="left">
   
-🎯 **Current Focus:** Advanced Machine Learning & Cross-Platform Development  
-🔬 **Research Areas:** Deep Learning, Data Visualization, Mobile Architecture  
-🌱 **Learning:** Cloud Computing, DevOps, Advanced Analytics  
-⚡ **Philosophy:** Code with purpose, design with empathy  
+🎯 Current Focus: Advanced Machine Learning & Cross-Platform Development  
+🔬 Research Areas: Deep Learning, Data Visualization, Mobile Architecture  
+🌱 Learning: Cloud Computing, DevOps, Advanced Analytics  
+⚡ Philosophy: Code with purpose, design with empathy  
 
 </div>
 
@@ -30,7 +30,7 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 ---
 
-## 🏆 **Recognition & Excellence**
+## 🏆 Recognition & Excellence
 
 <div align="center">
 
@@ -51,35 +51,32 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 **Performance Metrics**
+## 📊 Performance Metrics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshks&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
-
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="Sreesh's GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshks&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Sreesh's Top Languages" />
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sreeshks&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeshks&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="Sreesh's GitHub Streak" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreeshks&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Sreesh's Contribution Graph" />
+</div>
 
 ---
 
-## 🛠️ **Technology Arsenal**
+## 🛠 Technology Arsenal
 
 <div align="center">
 
-### **Core Technologies**
+### Core Technologies
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,flutter,dart,django,mysql,r,git,github,latex,mongodb,express,react,nodejs,figma&theme=dark" />
 
-### **Development Ecosystem**
+### Development Ecosystem
 
 <table>
   <tr>
@@ -106,7 +103,7 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
   </tr>
 </table>
 
-### **Specialized Tools & Frameworks**
+### Specialized Tools & Frameworks
 
 <div align="center">
   
@@ -124,33 +121,33 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 </div>
 
-### **Creative & Design Skills**
+### Creative & Design Skills
 
 <div align="center">
   
-🎨 **Video Production & Editing**  
-📸 **Advanced Photo Manipulation**  
-🖌️ **Visual Design & Branding**  
-📱 **UI/UX Architecture with Figma**  
-🌐 **Full-Stack Web Development (MERN)**  
-⚡ **Cross-Platform Mobile Development**  
+🎨 Video Production & Editing  
+📸 Advanced Photo Manipulation  
+🖌 Visual Design & Branding  
+📱 UI/UX Architecture with Figma  
+🌐 Full-Stack Web Development (MERN)  
+⚡ Cross-Platform Mobile Development  
 
 </div>
 
-### **Leadership & Collaboration**
+### Leadership & Collaboration
 
 <div align="center">
   
-🗣️ **Strategic Communication**  
-👥 **Cross-Functional Team Leadership**  
-📋 **Agile Project Management**  
-🧩 **Complex Problem Resolution**  
+🗣 Strategic Communication  
+👥 Cross-Functional Team Leadership  
+📋 Agile Project Management  
+🧩 Complex Problem Resolution  
 
 </div>
 
 ---
 
-## 🎓 **Professional Certifications**
+## 🎓 Professional Certifications
 
 <div align="center">
 
@@ -193,7 +190,7 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
@@ -207,13 +204,13 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 <div align="center">
 
-## 🎯 **Impact & Contributions**
+## 🎯 Impact & Contributions
 
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=Sreeshks&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### *"Innovation distinguishes between a leader and a follower"*
+### "Innovation distinguishes between a leader and a follower"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
