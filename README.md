@@ -1,153 +1,218 @@
-# <div align="center">👋 Hi, I'm **Sreesh K Suresh**</div>
+# <div align="center">🌟 **Sreesh K Suresh** 🌟</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Data+Science+Student;Flutter+Developer;AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Science+Virtuoso+%F0%9F%93%8A;Flutter+Development+Expert+%F0%9F%92%99;AI+%26+ML+Innovation+Specialist+%F0%9F%A4%96;Open+Source+Architect+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 💫 About Me
+## 🚀 **Crafting Tomorrow's Solutions Today**
 
-I'm a passionate **Data Science** student and **Flutter Developer** with a strong interest in AI, web development, and data analysis. I love building innovative solutions and contributing to open-source projects.
+Passionate **Data Science Architect** and **Flutter Development Specialist** with an unwavering commitment to innovation. I transform complex data into actionable insights and build seamless mobile experiences that bridge the gap between technology and human needs.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreeshks&label=Profile%20views&color=0e75b6&style=flat" alt="Sreeshks" /> </p>
-
-## 🏆 **Achievements**
-
-<div align="center">
+<div align="left">
   
-| 🏆 **Competition** | 🎖️ **Award** |
-|:---:|:---:|
-| **TechPlus Hackathon** | **2nd Prize** for *"Best Idea Ignator"* |
-| **Hackefx Hackathon** | **3rd Prize** |
+🎯 **Current Focus:** Advanced Machine Learning & Cross-Platform Development  
+🔬 **Research Areas:** Deep Learning, Data Visualization, Mobile Architecture  
+🌱 **Learning:** Cloud Computing, DevOps, Advanced Analytics  
+⚡ **Philosophy:** Code with purpose, design with empathy  
 
 </div>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Sreeshks&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/Sreeshks?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="Followers" />
+</p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 🏆 **Recognition & Excellence**
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreeshks&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshks&langs_count=10&layout=compact&theme=shades-of-purple" alt="Top Languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sreeshks&theme=dracula&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🛠️ **Skills**
-
-<div align="center">
-
-### Programming Languages & Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-### Frameworks
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥈-TechPlus%20Hackathon-FFD700?style=for-the-badge&logo=trophy&logoColor=white" />
+      <br><sub><b>Best Idea Ignator</b></sub>
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>JavaScript
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥉-Hackefx%20Hackathon-CD7F32?style=for-the-badge&logo=trophy&logoColor=white" />
+      <br><sub><b>Innovation Excellence</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
 
-### Design & Editing
-- 🎨 Video Editing
-- 📸 Photo Editing
-- 🖌️ Poster Making
-- 📱 UI/UX Design
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Soft Skills
-- 🗣️ Communication
-- 👥 Teamwork
-- 📋 Project Management
-- 🧩 Problem-Solving
-
----
-
-## 📜 **Certifications**
+## 📊 **Performance Metrics**
 
 <div align="center">
   
-| 📄 Certification | 🔗 Platform |
-|---|---|
-| Introduction to Flutter | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Python Full Stack Development | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| GIT | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Machine Learning with Python | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Data Analysis with Python | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Microsoft Cloud Skills Challenge | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Digital Marketing | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
-| Python 101 for Data Science | [View](https://www.linkedin.com/in/sreesh-k-suresh/) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreeshks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
 
-</div>
-
----
-
-## 📫 **Let's Connect!**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreesh-k-suresh/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreeshks)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshksureshh@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshks&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=Sreeshks&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sreeshks&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Sreeshks&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 🛠️ **Technology Arsenal**
+
+<div align="center">
+
+### **Core Technologies**
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,flutter,dart,django,mysql,r,git,github,latex&theme=dark" />
+
+### **Development Ecosystem**
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="60" height="60" />
+      <br><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
+
+### **Specialized Tools**
+
+<div align="center">
+  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+</div>
+
+### **Creative & Design Skills**
+
+<div align="center">
+  
+🎨 **Video Production & Editing**  
+📸 **Advanced Photo Manipulation**  
+🖌️ **Visual Design & Branding**  
+📱 **UI/UX Architecture**  
+
+</div>
+
+### **Leadership & Collaboration**
+
+<div align="center">
+  
+🗣️ **Strategic Communication**  
+👥 **Cross-Functional Team Leadership**  
+📋 **Agile Project Management**  
+🧩 **Complex Problem Resolution**  
+
+</div>
+
+---
+
+## 🎓 **Professional Certifications**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-Full%20Stack-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Machine%20Learning-Python-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data%20Analysis-Python-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft-Cloud%20Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Digital-Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data%20Science-Python%20101-306998?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sreesh-k-suresh/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Sreeshks)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sreeshksureshh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Impact & Contributions**
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=Sreeshks&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### *"Innovation distinguishes between a leader and a follower"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
