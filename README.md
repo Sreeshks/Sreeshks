@@ -1,4 +1,4 @@
-# <div align="center">🌟 **Sreesh K Suresh** 🌟</div>
+# <div align="center">**Sreesh K Suresh**</div>
 
 <div align="center">
   
@@ -67,11 +67,7 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Sreeshks&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
-</div>
 
 ---
 
@@ -81,7 +77,7 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 
 ### **Core Technologies**
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,flutter,dart,django,mysql,r,git,github,latex&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,flutter,dart,django,mysql,r,git,github,latex,mongodb,express,react,nodejs,figma&theme=dark" />
 
 ### **Development Ecosystem**
 
@@ -110,11 +106,15 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
   </tr>
 </table>
 
-### **Specialized Tools**
+### **Specialized Tools & Frameworks**
 
 <div align="center">
   
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -131,7 +131,9 @@ Passionate **Data Science Architect** and **Flutter Development Specialist** wit
 🎨 **Video Production & Editing**  
 📸 **Advanced Photo Manipulation**  
 🖌️ **Visual Design & Branding**  
-📱 **UI/UX Architecture**  
+📱 **UI/UX Architecture with Figma**  
+🌐 **Full-Stack Web Development (MERN)**  
+⚡ **Cross-Platform Mobile Development**  
 
 </div>
 
