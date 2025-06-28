@@ -145,6 +145,8 @@ Passionate Data Science Architect and Flutter Development Specialist with an unw
 
 </div>
 
+
+
 ---
 
 ## 🎓 Professional Certifications
