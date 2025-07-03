@@ -1,35 +1,6 @@
 # <div align="center">Sreesh K Suresh</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Science+Virtuoso+%F0%9F%93%8A;Flutter+Development+Expert+%F0%9F%92%99;AI+%26+ML+Innovation+Specialist+%F0%9F%A4%96;Open+Source+Architect+%F0%9F%8C%90)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-</div>
-
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-## 🚀 Crafting Tomorrow's Solutions Today
-
-Passionate Data Science Architect and Flutter Development Specialist with an unwavering commitment to innovation. I transform complex data into actionable insights and build seamless mobile experiences that bridge the gap between technology and human needs.
-
-<div align="left">
-  
-🎯 Current Focus: Advanced Machine Learning & Cross-Platform Development  
-🔬 Research Areas: Deep Learning, Data Visualization, Mobile Architecture  
-🌱 Learning: Cloud Computing, DevOps, Advanced Analytics  
-⚡ Philosophy: Code with purpose, design with empathy  
-
-</div>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Sreeshks&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/Sreeshks?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="Followers" />
-</p>
-
----
 
 ## 🏆 Recognition & Excellence
 
@@ -122,77 +93,9 @@ Passionate Data Science Architect and Flutter Development Specialist with an unw
 
 </div>
 
-### Creative & Design Skills
-
-<div align="center">
-  
-🎨 Video Production & Editing  
-📸 Advanced Photo Manipulation  
-🖌 Visual Design & Branding  
-📱 UI/UX Architecture with Figma  
-🌐 Full-Stack Web Development (MERN)  
-⚡ Cross-Platform Mobile Development  
-
-</div>
-
-### Leadership & Collaboration
-
-<div align="center">
-  
-🗣 Strategic Communication  
-👥 Cross-Functional Team Leadership  
-📋 Agile Project Management  
-🧩 Complex Problem Resolution  
-
-</div>
 
 
-
----
-
-## 🎓 Professional Certifications
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-Full%20Stack-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Machine%20Learning-Python-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data%20Analysis-Python-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft-Cloud%20Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Digital-Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data%20Science-Python%20101-306998?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
+-
 
 ## 🌐 Connect & Collaborate
 
