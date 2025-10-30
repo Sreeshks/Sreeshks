@@ -31,7 +31,7 @@
 ```javascript
 const sreesh = {
     role: "Full Stack Developer",
-    location: "Kodungallūr, Kerala, IN",
+    location: "Palakkad, Kerala, IN",
     interests: ["AI/ML", "Web Development", "Mobile Apps", "Data Science"],
     currentFocus: "Building scalable MERN applications",
     hackathonWins: 3,
